@@ -1,6 +1,7 @@
 body{
 	margin: 0;
 	text-align: center;
+	
 }
 
 form {
@@ -60,8 +61,6 @@ button:hover {
 	padding: 9px;
 	width: 60px;
     height: 60px;
-	
-	
 }
 
 span{
@@ -70,24 +69,12 @@ span{
 	font-weight: 900;
 }
 
-.container{
-	width: 100%;
-	background-color: dodgerblue;
-}
-
 .text-bold{
 	font-weight: 700;
 }
 
 .item{
 	height: 350px;
-	width: 100%;
-	float: left;
-}
-
-img{
-	width: 100%;
-	float: left;
 }
 
 .main-section{
