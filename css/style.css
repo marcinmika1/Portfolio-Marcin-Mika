@@ -27,6 +27,11 @@ input:hover {
 	background-color: skyblue;
 }
 
+.checkBox-form{
+	width: 30px;
+	height: 30px;
+}
+
 button {
 	width: 40%;
 	height: 40px;
