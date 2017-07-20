@@ -15,7 +15,6 @@ body{
 
 img{
 	float: left;
-	background-color: dimgrey;
 }
 
 .main-section{
@@ -23,7 +22,7 @@ img{
 
 @media only screen and (max-width: 500px) {
 .main-section{
-	background-color:dimgrey;
+
 }
 	
 }
