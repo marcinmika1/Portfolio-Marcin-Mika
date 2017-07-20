@@ -3,8 +3,24 @@ body{
 	text-align: center;
 }
 
+.fa{
+	border-radius: 50px;
+    padding: 20px; 
+    width: 100px;
+    height: 100px; 
+	margin: 30px;
+}
+
+.fa:hover{
+	background-color: dodgerblue;
+}
+
 .container{
 	width: 100%;
+}
+
+.text-bold{
+	font-weight: 700;
 }
 
 .item{
