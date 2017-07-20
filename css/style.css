@@ -4,6 +4,10 @@ body{
 	
 }
 
+p{
+	font-size: 17px;
+}
+
 form {
 	width: 80%;
 	margin: 40px;
