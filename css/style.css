@@ -8,11 +8,18 @@ body{
     padding: 20px; 
     width: 100px;
     height: 100px; 
-	margin: 30px;
+	margin: 50px;
+	border: solid dodgerblue;
 }
 
 .fa:hover{
 	background-color: dodgerblue;
+}
+
+span{
+	display: block;
+	line-height: 55px;
+	font-weight: 900;
 }
 
 .container{
